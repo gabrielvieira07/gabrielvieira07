@@ -1,6 +1,6 @@
 ## Gabriel Vieira.md
 
-- 👨‍💻 Programo em Python, mas ando aprendendo HTML&CSS;
+- 👨‍💻 Programo em Java, mas ando aprendendo HTML&CSS;
 
 ##
 
